@@ -1,0 +1,27 @@
+{
+  "cwd": "C:\\Users\\prstv\\OneDrive\\Рабочий стол\\test-kalita",
+  "type": [
+    "cordova"
+  ],
+  "name": "My App",
+  "framework": "react",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": "less",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "pkg": "io.framework7.myapp",
+  "cordova": {
+    "folder": "cordova",
+    "platforms": [
+      "electron"
+    ],
+    "plugins": []
+  }
+}
